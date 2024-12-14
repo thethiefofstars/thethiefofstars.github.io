@@ -1,0 +1,6 @@
+backups/*
+*.png
+*.jpg
+*.webp
+*.avif
+*.svg
